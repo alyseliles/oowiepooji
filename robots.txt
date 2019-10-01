@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohkoaciom.fabricell.org/sitemap.xml
